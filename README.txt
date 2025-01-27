@@ -1,6 +1,6 @@
-- WADS 		=  movement
-- Left click 	= shoot
-- Right click	= Special skill (has Cooldown)
-- R 			= Revive
-- P 			= Pause Game
-- O 			=  Continue Game
+- WADS 		      =  movement
+- Left click 	  = shoot
+- Right click	  = Special skill (has Cooldown)
+- R 			      = Revive
+- P 			      = Pause Game
+- O 			      =  Continue Game
